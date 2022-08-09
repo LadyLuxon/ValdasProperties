@@ -1,0 +1,14 @@
+{
+  "name": "ValdasProperties",
+  "title": "Valdas Properties 7",
+  "description": "Adds valdas properties",
+  "version": "0.2",
+  "author": "LadyLuxon",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["valdasp.js"],
+  "manifest": "https://raw.githubusercontent.com/LadyLuxon/ValdasProperties/main/module.json",
+  "download": "https://github.com/LadyLuxon/ValdasProperties/archive/main.zip",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9"
+}
